@@ -1,4 +1,4 @@
-# BRATS 2020 Dataset Analysis
+# Hybrid  CNN-GCN Model
 
 Explore and analyze the BRATS 2020 dataset leveraging 2D image data slices and implementing neural network models.
 
